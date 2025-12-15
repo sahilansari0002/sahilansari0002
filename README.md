@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on SkillFirst initiatives, cloud-based projects, portfolio development, and competitive tech challenges. <br>👯 I’m looking to collaborate on Open-source projects, cloud & web applications, cybersecurity tools, and hackathon ideas. <br>🤝 I’m looking for help with Advanced system design, scalable architectures, and real-world product deployment. <br>🌱 I’m currently learning Cloud computing (Google Cloud), R programming, data analysis, and backend development. <br>💬 Ask me about Google Cloud Arcade, hackathons, volunteering experiences, project building, and tech communities. <br>⚡ Fun fact I love turning competitions, workshops, and hackathons into learning wins—and sometimes trophies too 🏆🚀
 
 
 ## 🌐 Socials:
